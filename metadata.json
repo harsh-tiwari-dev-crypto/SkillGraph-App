@@ -1,0 +1,5 @@
+{
+  "name": "SkillGraph",
+  "description": "An interactive platform to visualize and analyze employee skills within an organization. Leveraging AI, it helps identify skill gaps for upcoming projects and suggests relevant personnel.",
+  "requestFramePermissions": []
+}
